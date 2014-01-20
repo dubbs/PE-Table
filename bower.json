@@ -8,7 +8,6 @@
   "description": "Progressive Enhanced Tables",
   "license": "MIT",
   "dependencies": {
-    "jquery": "~2.0.3",
-    "slickgrid": "~2.1.0"
+    "jquery": "~2.0.3"
   }
 }
